@@ -154,3 +154,15 @@ button {
 @media screen and (max-width: 440px) {
     form { padding: 0.625rem;}    
 }
+
+@media screen and (max-width: 412px) {
+    h1#title {
+    font-size: 2rem;
+    }
+form#survey-form {
+    width: auto;
+    margin: 1rem;
+}
+    
+}
+
